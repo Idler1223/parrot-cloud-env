@@ -1,0 +1,2 @@
+# Default Powerlevel10k config placeholder
+POWERLEVEL9K_DISABLE_CONFIGURATION_WIZARD=true
